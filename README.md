@@ -1,1 +1,1 @@
-# profile1
+# profile1 - demo project
